@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		body,div,ul,li{ margin: 0; padding: 0; }
+		#banner{ width: 300px; height: 300px; perspective: 800; perspective-origin: 50% 50%; margin: 300px auto; }
+		#banner ul{ transform-style: preserve-3d; list-style: none; position: relative; transition: transform 2s linear;}
+		#banner ul li{ width: 300px; height: 300px; background-color: #F3A; font-size:200px; color: #eaeaea; font-weight: bold; text-align: center; line-height: 300px; position: absolute; }
+		#banner ul li:nth-child(1){ top: -300px; transform-origin: bottom; transform: rotateX(90deg);}
+		#banner ul li:nth-child(2){ top: 300px; transform-origin: top; transform: rotateX(-90deg);}
+		#banner ul li:nth-child(3){ }
+		#banner ul li:nth-child(4){ transform: translateZ(-300px);}
+		#banner ul li:nth-child(5){ left: -300px; transform-origin: right; transform: rotateY(-90deg);}
+		#banner ul li:nth-child(6){ right: -300px; transform-origin: left; transform: rotateY(90deg); }
+
+		#banner ul:hover{ transform: rotateX(-90deg); }
+	</style>
+</head>
+<body>
+	<div id="banner">
+		<ul>
+			<li>上</li>
+			<li>下</li>
+			<li>前</li>
+			<li>后</li>
+			<li>左</li>
+			<li>右</li>
+		</ul>
+	</div>
+</body>
+</html>

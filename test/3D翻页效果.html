@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>3D翻页效果</title>
+	<style>
+		#my3dspace{ perspective: 800px; perspective-origin: 50% 50%; overflow: hidden; }
+		#pageGroup{ width: 400px; height: 400px; margin: 0 auto; transform-style: preserve-3d; position: relative; }
+		.page{ width: 360px; height: 360px; padding: 20px; background-color: #000; color: #fff; font-weight: bold; font-size: 360px; line-height: 360px; text-align: center; position: absolute; transform-origin: bottom; transition: transform 1s linear;}
+
+		#page1{ }
+		#page2,#page3,#page4,#page5,#page6{ transform: rotateX(90deg); }
+		
+		#op{ text-align: center; margin: 0 auto; }
+	</style>
+</head>
+<body>
+	<div id="my3dspace">
+		<div id="pageGroup">
+			<div class="page" id="page1">1</div>
+			<div class="page" id="page2">2</div>
+			<div class="page" id="page3">3</div>
+			<div class="page" id="page4">4</div>
+			<div class="page" id="page5">5</div>
+			<div class="page" id="page6">6</div>
+		</div>
+	</div>
+
+	<div id="op">
+		<a href="javascript:next()" id="btn-next">next</a>
+		<a href="javascript:previous()" id="btn-previous">previous</a>
+	</div>
+
+	<script>
+		var curIndex = 1;
+		function next(){
+			var curPage = document.getElementById("page"+curIndex);
+			curPage.style.transform = "rotateX(-90deg)";
+
+			curIndex ++;
+			var nextPage = document.getElementById("page"+curIndex);
+			nextPage.style.transform = "rotateX(0deg)";
+		}
+
+		function previous(){
+			var curPage = document.getElementById("page"+curIndex);
+			curPage.style.transform = "rotateX(90deg)";
+
+			curIndex --;
+			var previousPage = document.getElementById("page"+curIndex);
+			previousPage.style.transform = "rotateX(0deg)";
+		}
+	</script>
+</body>
+</html>

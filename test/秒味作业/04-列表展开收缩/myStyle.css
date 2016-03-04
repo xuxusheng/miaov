@@ -1,0 +1,57 @@
+html,body,div,ul,li,img,p {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+.list_level_1 {
+	width: 150px;
+	border: 1px solid #000;
+}
+
+/* 一级标题 */
+.list_level_1 > li > p {
+	background: #09F7F7;
+	font-size: 20px;
+	font-weight: bold;
+}
+/* 小三角标志 */
+.list_level_1>li {
+	position: relative;
+}
+.list_level_1>li:before {
+	content:'';
+	width: 0;
+	height: 0;
+	border: 5px solid #09F7F7;
+	border-left-color: #3f3f3f;
+
+	position: absolute;
+	top: 6px;
+	left: 6px;
+}
+/* 左侧边距 */
+.list_level_1>li p, .list_level_1>li li {
+	padding-left: 20px;
+}
+
+.list_level_2 li {
+	border-bottom: 1px solid #000;
+}
+
+
+
+
+.list_level_1>li.active>p {
+	background: #F7F709;
+}
+.list_level_1>li.active:before {
+	border: 5px solid #F7F709;
+	border-top-color: #3f3f3f;
+}
+.list_level_2 li.active {
+	background: #09F7F7;
+}

@@ -1,0 +1,62 @@
+html,body,ul,li,div,img {
+	margin: 0; padding: 0;
+}
+img {
+	border: none;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+#content {
+	width: 514px;
+	height: 210px;
+}
+
+#content #list {
+	list-style: none;
+	width: 510px;
+	height: 190px;
+	margin-top: 7px;
+	padding: 10px 0 0 20px;
+	border-top: 1px solid #9c9c9c;
+}
+#content #list li{
+	float: left;
+	width: 48px;
+	height: 87px;
+	padding-top: 3px;
+	margin-right: 37px;
+	text-align: center;
+	position: relative;
+}
+#list li img　{
+	width: 48px;
+	height: 48px;
+	display: block;
+}
+#list .info_1 {
+	font-size: 12px;
+	line-height: 0px;
+}
+#list .info_2 {
+	font-size: 12px;
+	line-height: 8px;
+	color: #9c9c9c;
+}
+#list li div {
+	width: 230px;
+	height: 135px;
+	background: green;
+	position: absolute;
+	top: -127px;
+	left: 21px;
+	z-index: 1;
+	display: none;
+}
+#list li:hover div {
+	display: block;
+}

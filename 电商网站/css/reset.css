@@ -1,0 +1,37 @@
+/* 样式重置(reset) */
+/* 最好不要抄别人的，根据自己的设计量身定制*/
+body,h1,h2,h3,h4,p,dl,dd,ul,ol,form,input,textarea,select,th,th {
+	margin: 0;
+	padding: 0;
+}
+em {
+	font-style: normal;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+img {
+	border: none;
+	vertical-align: top;
+}
+table {
+	border-collapse: collapse;
+	/* border-collapse 属性设置表格的边框是否被合并为一个单一的边框，还是象在标准的 HTML 中那样分开显示。*/
+	/* collapse值	如果可能，边框会合并为一个单一的边框。会忽略 border-spacing 和 empty-cells 属性。*/
+}
+input,textarea {
+	outline: none;
+}
+textarea {
+	resize: none;
+	/* resize 属性规定是否可由用户调整元素的尺寸。*/
+	overflow: auto;
+}
+body {
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+

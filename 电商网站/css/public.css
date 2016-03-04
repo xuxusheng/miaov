@@ -1,0 +1,17 @@
+/* 公共样式public */
+
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clear {
+	zoom: 1;
+}
+.clear:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
