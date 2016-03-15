@@ -2,36 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a6ed64-0d97-46a7-9d4e-9c2f6d225a63" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/miaov/source/a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/miaov/source/b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/自动化项目合并.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/fs/自动化项目构建.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/html/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/html/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/html/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/server2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/http/server3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/nodeJS/test.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/nodeJS/hello.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/nodeJS/2.js" afterPath="$PROJECT_DIR$/test/nodeJS/2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/scratch/index.html" afterPath="$PROJECT_DIR$/test/scratch/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/04-bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/09-angularJS/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/09-angularJS/js/jquery-1.12.1.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/AJAX/index.html" afterPath="$PROJECT_DIR$/test/03-AJAX/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/AJAX/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/test/04-bootstrap/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/AJAX/test.html" afterPath="$PROJECT_DIR$/test/03-AJAX/test.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/test/04-bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/bootstrap/index.html" afterPath="$PROJECT_DIR$/test/04-bootstrap/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/bootstrap/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/test/03-AJAX/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/less/index.html" afterPath="$PROJECT_DIR$/test/07-less/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/2.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/1.txt" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/2.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/3.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/3.txt" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/4.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/5.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/fs.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/fs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/miaov/index.html" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/miaov/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/miaov/source/a.txt" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/miaov/source/a.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/miaov/source/b.txt" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/miaov/source/b.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/自动化项目合并.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目合并.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/fs/自动化项目构建.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目构建.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/html/error.html" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/html/error.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/html/index.html" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/html/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/html/login.html" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/html/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/html/user.html" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/html/user.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/server.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/server.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/server2.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/server2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/http/server3.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/http/server3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/server.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/server.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/nodeJS/test.js" afterPath="$PROJECT_DIR$/test/08-nodeJS/test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/scratch/index.html" afterPath="$PROJECT_DIR$/test/02-scratch/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/images/phone_bg.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/images/phone_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/images/role_ds.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/images/role_ds.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/images/role_th.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/images/role_th.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/index.html" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/myJs.js" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/myJs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/myStyle.css" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/myStyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/01-模拟手机/模拟手机短信发送.gif" afterPath="$PROJECT_DIR$/test/01-秒味作业/01-模拟手机/模拟手机短信发送.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/1.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/10.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/11.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/12.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/2.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/3.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/4.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/5.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/6.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/7.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/8.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/images/9.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/images/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/index.html" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/02-图标列表/myStyle.css" afterPath="$PROJECT_DIR$/test/01-秒味作业/02-图标列表/myStyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/03-刮刮乐/index.html" afterPath="$PROJECT_DIR$/test/01-秒味作业/03-刮刮乐/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/03-刮刮乐/pic.jpg" afterPath="$PROJECT_DIR$/test/01-秒味作业/03-刮刮乐/pic.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/04-列表展开收缩/index.html" afterPath="$PROJECT_DIR$/test/01-秒味作业/04-列表展开收缩/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/04-列表展开收缩/myJs.js" afterPath="$PROJECT_DIR$/test/01-秒味作业/04-列表展开收缩/myJs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/秒味作业/04-列表展开收缩/myStyle.css" afterPath="$PROJECT_DIR$/test/01-秒味作业/04-列表展开收缩/myStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="miaov.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,60 +82,7 @@
     <favorites_list name="miaov" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server3.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/nodeJS/http/server3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4229075">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.931034">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/error.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.448276">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.448276">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.62069">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,6 +123,8 @@
         <option value="$PROJECT_DIR$/test/nodeJS/http/html/error.html" />
         <option value="$PROJECT_DIR$/test/nodeJS/http/html/login.html" />
         <option value="$PROJECT_DIR$/test/nodeJS/http/server3.js" />
+        <option value="$PROJECT_DIR$/test/bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/test/09-angularJS/index.html" />
       </list>
     </option>
   </component>
@@ -216,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,76 +229,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miaov" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodeJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,25 +245,28 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\许盛\Desktop\miaov\test\09-angularJS\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\许盛\Desktop\miaov\test\nodeJS\fs" />
       <recent name="C:\Users\许盛\Desktop\miaov" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.server3.js">
-    <configuration default="false" name="自动化项目构建.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="自动化项目构建.js" working-dir="$PROJECT_DIR$/test/nodeJS/fs">
+    <configuration default="false" name="自动化项目构建.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目构建.js" working-dir="$PROJECT_DIR$/test/08-nodeJS/fs">
       <method />
     </configuration>
-    <configuration default="false" name="自动化项目合并.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="自动化项目合并.js" working-dir="$PROJECT_DIR$/test/nodeJS/fs">
+    <configuration default="false" name="自动化项目合并.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目合并.js" working-dir="$PROJECT_DIR$/test/08-nodeJS/fs">
       <method />
     </configuration>
-    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/test/nodeJS/http">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="$PROJECT_DIR$/test/08-nodeJS/http/server.js" working-dir="$PROJECT_DIR$/test/08-nodeJS/http">
       <method />
     </configuration>
-    <configuration default="false" name="server2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="server2.js" working-dir="$PROJECT_DIR$/test/nodeJS/http">
+    <configuration default="false" name="server2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="$PROJECT_DIR$/test/08-nodeJS/http/server2.js" working-dir="$PROJECT_DIR$/test/08-nodeJS/http">
       <method />
     </configuration>
-    <configuration default="false" name="server3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="server3.js" working-dir="$PROJECT_DIR$/test/nodeJS/http">
+    <configuration default="false" name="server3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="I:/workProgram/nodejs/node" path-to-js-file="$PROJECT_DIR$/test/08-nodeJS/http/server3.js" working-dir="$PROJECT_DIR$/test/08-nodeJS/http">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -432,18 +349,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27657267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21806167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21806167" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -454,27 +371,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32488987" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37201735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -494,214 +390,266 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/4.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/server3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/scratch/index.html">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/scratch/index.html">
+    <entry file="file://$PROJECT_DIR$/test/02-scratch/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/scratch/index.html">
+    <entry file="file://$PROJECT_DIR$/test/02-scratch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/02-scratch/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.62069">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/AJAX/index.html">
+    <entry file="file://$PROJECT_DIR$/test/03-AJAX/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.24138">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/AJAX/test.html">
+    <entry file="file://$PROJECT_DIR$/test/03-AJAX/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.043243244">
           <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/2.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/test.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/fs.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/fs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/1.txt">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/2.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49315068">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/3.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5479452">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/4.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/5.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/自动化项目构建.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目构建.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3321918">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/miaov/source/b.txt">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/miaov/source/b.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/miaov/source/a.txt">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/miaov/source/a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/fs/自动化项目合并.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/fs/自动化项目合并.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/server.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36610168">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/server.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/server2.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/server2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/server3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84641635">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/index.html">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.62069">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.448276">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.448276">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/html/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.931034">
+        <state vertical-scroll-proportion="0.33882353">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/nodeJS/http/server3.js">
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/error.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4229075">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.25411764">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25411764">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/08-nodeJS/http/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22588235">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/04-bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33882353">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/04-bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14117648">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/09-angularJS/js/jquery-1.12.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/09-angularJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.112941176">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
